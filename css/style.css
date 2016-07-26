@@ -1,0 +1,45 @@
+.button-ticket{
+	width: 150px;
+	height: 55px;
+	border-radius: 5px 10px 5px 10px;
+	background:#BB7B29;
+	padding:10px 30px;
+	color:white;
+	text-align: center;
+}
+.sub-title{
+	font-weight: bold;
+	color:#CDD2D3;
+}
+.h0{
+	font-weight: bold;
+	color: #000000;
+	font-size: 24px;
+}
+.h1{
+	font-weight: bold;
+	color: #000000;
+	font-size: 24px;
+}
+.sub-title2 {
+	color:#CDD2D3;
+}
+.sub-title3 {
+	color:#CDD2D3;
+}
+.new-s{
+	color: #000000;
+}
+.movie-fila{
+	display: inline-block;
+	margin:20px 115px;
+}
+.footer{
+	background:#F3F3F3;
+	display:block;
+	height: 200px;
+}
+a{
+	text-decoration: none;
+	color:#CDD2D3;
+}
